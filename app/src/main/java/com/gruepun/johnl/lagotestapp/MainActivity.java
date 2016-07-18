@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void addOneToCounter(View v){
         count++;
+        count++;
         updateCounter();
     }
 
